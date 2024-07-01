@@ -8,11 +8,10 @@ Shopify is a simple shopping app built for Android devices. It allows users to b
 **Intuitive UI:** Designed for easy navigation and user-friendly experience.
 **Adaptive Design:** Responsive layout for different screen sizes and orientations.
 # Screenshots
-![Screenshot (311)](https://github.com/004Kenny/Shopify-HNG/assets/33664118/767c504c-b427-416e-942d-8ccfbf64af7f) <br/>
-
-![Screenshot (310)](https://github.com/004Kenny/Shopify-HNG/assets/33664118/94500fe1-14af-44bb-870c-2adebfc9b113) <br/>
-![Screenshot (309)](https://github.com/004Kenny/Shopify-HNG/assets/33664118/1449d7bb-22a4-49ee-96ea-2924947d815e) <br/>
-![Screenshot (312)](https://github.com/004Kenny/Shopify-HNG/assets/33664118/cd641ce2-16c9-49d2-b2f8-b0ce6de52b18)
+[Screenshot (311)](https://github.com/004Kenny/Shopify-HNG/assets/33664118/767c504c-b427-416e-942d-8ccfbf64af7f) <br/>
+[Screenshot (310)](https://github.com/004Kenny/Shopify-HNG/assets/33664118/94500fe1-14af-44bb-870c-2adebfc9b113) <br/>
+[Screenshot (309)](https://github.com/004Kenny/Shopify-HNG/assets/33664118/1449d7bb-22a4-49ee-96ea-2924947d815e) <br/>
+[Screenshot (312)](https://github.com/004Kenny/Shopify-HNG/assets/33664118/cd641ce2-16c9-49d2-b2f8-b0ce6de52b18)
 
 # Setup Instructions
 **Clone the Repository** <br/>
